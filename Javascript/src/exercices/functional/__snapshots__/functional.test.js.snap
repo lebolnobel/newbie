@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Functional programming should return elements not higher than 50 1`] = `
+Array [
+  1,
+  32,
+  45,
+  45,
+  -23,
+  45,
+  0,
+]
+`;
+
+exports[`Functional programming should return if all numbers divided by two are lower than 500 1`] = `true`;
+
+exports[`Functional programming should return sum elements 1`] = `1909`;
+
+exports[`Functional programming should return the first element higher than 500 1`] = `783`;
+
+exports[`Functional programming should return true if at least one element is higher than 10 000 1`] = `false`;
